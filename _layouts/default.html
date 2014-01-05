@@ -6,6 +6,11 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
+		<!-- 404 Redirecting -->
+		{% if page.url == "/404.html" %}
+			<meta http-equiv="refresh" content="5; url=/">
+		{% endif %}
+
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
@@ -18,7 +23,7 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">root</a>
+            <a class="extra" href="/">home</a>
           </div>
 
           {{ content }}
