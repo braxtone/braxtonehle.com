@@ -1,4 +1,14 @@
-name: BraxtonEhle.com
-markdown: redcarpet
+markdown: rdiscount
 pygments: true
-timezone: America/Seattle
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: Braxton Ehle 
+url: http://braxtonehle.com.com
+description: The rantings of a deragned nerd.
+twitter: _braxtone 
+github: braxtone
+linkedin: pub/braxton-ehle/36/691/1b7
+stackexchange: users/1215524/bobmagoo?tab=accounts
+gravatar_url: http://gravatar.com/avatar/6c6b0027907ba37a497eb5bb4729d88d
