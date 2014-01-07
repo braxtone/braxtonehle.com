@@ -2,7 +2,7 @@
 layout: post
 title:  "It's Alive!"
 date:   2014-01-05 00:00:37
-categories: jekyll update
+categories: meta jekyll aws update
 ---
 
 Hello there! It's been a long time since I've actually had a website configured on my shiny domain. Doing technical work for a living makes it less and less appealing as a hobby, but getting a chance to take on a project to get my website back up and get more familiar with Git(hub), Jekyll, AWS, and more was too much to resist.
