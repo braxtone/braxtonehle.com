@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Replicating A Shared Photo Steam to Dropbox"
+title:  "Replicating A Shared Photo Stream to Dropbox"
 date:   2014-10-21 07:40:31
 categories: nerdery deep-dive how-to
 ---
 
-This is an adventure I went on to share the photos in my Shared PhotoSteam synced via iCloud to Dropbox so some of my family members who aren’t fortunate enough to bask in the glory of Jobsian utopia (read Android users) can still bask in the glow of my adorable daughter.
+This is an adventure I went on to share the photos in my Shared Photo Stream synced via iCloud to Dropbox so some of my family members who aren’t fortunate enough to bask in the glory of Jobsian utopia (read Android users) can still bask in the glow of my adorable daughter.
 
 Part 1: The Obvious
 ===================
@@ -20,7 +20,7 @@ which will inevitably point you towards useful tools like
 * [Hazel](http://www.noodlesoft.com/hazel.php). 
 * or even [custom bash scripts](https://gist.github.com/mkleucker/6055702).
 
-Those are all well and good and will have you either indirectly or directly poking at the `~/Library/Application Support/iLifeAssetManagement/assets/sub` folder. If your goal is purely to rip out all of the images from your Photo Stream and shove them into another folder/disk/cloud storage location, then read no further. If you're looking to replicate _specific_ Shared Photo Streams, then read on intrepid Interneter.
+Those are all well and good and will have you either indirectly or directly poking at the `~/Library/Application Support/iLifeAssetManagement/assets/sub` folder. If your goal is purely to rip out all of the images from your personal Photo Stream (the thing that backs up your Cameral Roll to that cloud thing everyone keeps talking about) and shove them into another folder/disk/cloud storage location, then read no further. If you're looking to replicate _specific_ and Shared Photo Streams (the iDevice based way to share a photo album with other cool kids with iThings), then read on intrepid Interneter.
 
 Part 2: Two steps forward, one step back..
 ==========================================
@@ -144,7 +144,7 @@ Usage: photo_stream_backup.rb [options]
 
 and here's what an example run looks like:
 {% highlight bash %}
-$ ./photo_stream_backup.rb -s all -d '~/icloud_test'
+$ ./photo_stream_backup.rb -s all -d '~/Dropbox/'
 Backing up stream 'Wife and Life'
 Backing up 169 images...
 Backing up stream 'Family pics'
