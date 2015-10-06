@@ -1,0 +1,713 @@
+iframe {
+	display:none;
+}/*Hide legacy tracking iframe*/
+
+form {
+	margin:0 !important;
+	height:100%;
+}/* eliminate unnecessary margin, and deal with absolutely positioned footers on password page. */
+
+
+
+#pwp_pagecontainer {
+	width: 952px;
+}
+/*
+img {
+	border: 0;
+}
+*/
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.clear {
+    clear: both;
+    height: 0px;
+    overflow:hidden;
+}
+
+.pageContainer {
+	width: 784px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-image:url(http://www.xoedge.com/uw/templates/shadow.png)
+}
+
+/* Powered by WeddingChannel top */
+#poweredbytop {
+/*background-color: white;*/
+/*clear: right;*/
+/*display: block;*/
+    float: right;
+    font-family : arial,sans-serif;
+    font-size: 9px;
+    height: 15px;
+    line-height: 14px;
+    text-align: center;
+    width: 158px;
+}
+
+/* AddThis */
+#bookmark_share {
+	/*margin-left: 650px;*/
+	clear: both;
+	float: right;
+	margin-top: 0px;
+	width: 153px;
+	padding-top: 6px;
+	padding-right: 5px;
+	text-align: right;
+}
+
+#bookmark_share, .addthis, .addthis:hover {
+	font-family: arial;
+	font-size: 11px;
+}
+.addthis {
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.addthis:hover {
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+#navLeft {
+	height:auto !important;
+	margin-bottom:60px !important;
+}
+.warning {
+	color: #ff7b7b;
+	display:block;
+	text-align:left;
+	font:normal 10px Arial, sans-serif;
+}
+.field .warning {
+	position:absolute;
+}/* For validation error messages in the initial search fields */
+.radio-container {
+	height:15px !important;
+	border:1px solid #fff;
+	overflow:hidden;
+}
+.radio .warning {
+	text-align:center;
+	display:block;
+}
+input.button {
+	border:0 !important;
+}/* Input buttons should not have a border, unlike input texts */
+.separator {
+	height:1px;
+	background-color:transparent;
+	background-repeat:repeat-x;
+	background-position:top left;
+}/* Dotted rule used throughout all templates. Actual image used is governed in theme's CSS*/
+#text_date {
+	float: none;
+}
+.contentText p, #formNoMatch p {
+	padding-top: 0;
+	padding-bottom: 16px;
+	margin: 0;
+}
+.contentTextOutput {
+	margin-bottom:15px;
+}
+
+.richText {
+	font:normal 12px Arial, sans-serif;
+}
+.contentImg {
+	padding-bottom: 20px !important;
+	width: auto;
+	height: auto;
+	padding-right: 20px;
+	float: none;
+}
+
+.contentVideo {
+	padding-bottom: 20px !important;
+	width: auto;
+	height: auto;
+	padding-right: 20px;
+	float: none;
+}
+
+.contentText {
+	float: none;
+	width: auto;
+	padding-right: 20px;
+	padding-top: 0 !important;
+}
+.contentText ul {
+	padding-top: 0;
+	margin-top: 0;
+}
+a.onstate:link, a.onstate:visited {
+	color: inherit;
+	text-decoration: underline;
+	font-size: inherit;
+}
+h3 {
+	display: block;
+	margin-bottom:10px !important;
+}
+
+.tickerContainer {
+	text-align: center;
+}
+
+.tickerContainer img {
+	border-width: 0px;
+}
+
+/* Start: VIEW modal */
+
+.modalPopup {
+	left:50%;
+	margin-left:-330px;
+}
+.modalContent {
+	font:normal 12px Arial, sans-serif;
+	padding:20px 50px !important;
+}
+
+.modalContent h3 {
+	font-weight:bold;
+	color:#999 !important;
+	text-decoration:none;
+}
+
+.modalContent .counter, .modalContent .paging a {
+	font-weight:bold;
+	color:#999 !important;
+	text-decoration:none;
+}
+.modalContent .counter {
+	float:left;
+}
+.modalContent .paging {
+	float:right;
+}
+.modalContent .paging .prev {
+	background:transparent url(http://www.xoedge.com/uw/modal/ico_left_arrow.gif) no-repeat left 2px;
+	padding-left:8px;
+	margin-right:10px;
+}
+.modalContent .paging .next {
+	background:transparent url(http://www.xoedge.com/uw/modal/ico_right_arrow.gif) no-repeat right 2px;
+	padding-right:8px;
+}
+.modalContent .main_image {
+	display:block;
+	clear:both;
+	padding-top:5px;
+	margin:0 auto;
+}
+.modalContent p {
+	width:500px;
+	color:#000;
+}
+
+
+
+/*Photo Album Guest View*/
+.photo_album .btn_start_slideshow {
+	margin:0 auto 30px auto;
+	display:block;
+}
+.photo_album .thumb {
+	float:left;
+	margin: 0 10px 10px 0;
+	width: 115px;
+	height:115px;
+}
+.photo_album .thumb a {
+	display:block;
+	float:left;
+}
+.photo_album .thumb img {
+	display:block;
+	max-width:100px;max-height:75px;
+}
+
+/* Video Album Guest View */
+.video_album .btn_start_slideshow {
+	margin:0 auto 30px auto;
+	display:block;
+}
+.video_album .thumb {
+	float:left;
+	margin: 0 10px 10px 0;
+	width: 115px;
+	height:115px;
+}
+.video_album .thumb a {
+	display:block;
+	float:left;
+}
+.video_album .thumb img {
+	display: block;
+	width: 100px;
+	height: 100px;
+}
+
+.videomodal_container {
+    height: 1%;
+}
+
+.videomodal_container .modalPopup {
+    width: 650px;
+}
+
+.videomodal_container .modalPopup .modalContent {
+    padding: 20px 0 20px 0 !important;
+}
+
+.videomodal_container .modalPopup .modalContent .videoplayer_container {
+    text-align: center;
+}
+
+.videomodal_container .modalPopup .modalContent .videocomments {
+    float: left;
+    width: 600px;
+    height: 150px;
+    margin-right: 10px;
+    text-align: left;
+    overflow: auto;
+    margin-bottom: 15px;
+}
+
+.videomodal_container .modalPopup .modalContent .videocomments .videocommentcount {
+    margin-bottom: 10px;
+}
+
+.videomodal_container .modalPopup .modalContent .videocomments .Commentor {
+    font-weight: bold;
+}
+
+.videomodal_container .modalPopup .modalContent .videocomments .Comment {
+    margin-bottom: 10px;
+}
+
+.videocomments {
+	display: none;
+}
+
+.videomodal_container .modalPopup .modalContent .addvideocomment_container {
+    width: 250px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.videomodal_container .modalPopup .modalContent .addvideocomment {
+    width: 150px;
+    margin-top: 15px;
+}
+
+
+.videomodal_container .modalPopup .modalContent .addvideocomment_container .addvideocomment label {
+  margin-right: 5px;  
+}
+
+.videomodal_container .modalPopup .modalContent .addvideocomment_container input {
+    border: solid 1px #cccccc;
+}
+
+.videomodal_container .modalPopup .modalContent .addvideocomment_container textarea {
+    border: solid 1px #cccccc;
+    width: 240px;
+    margin-bottom: 10px;
+}
+
+
+
+
+#imgFlickrLogo, .modalPopup img, .modalContent img, tr.shadow img, 
+td.leftShadow img, td.rightShadow img, td.shadowContainer img,
+#divFlickrThumbs img, .photo_album img
+{
+	border: 0px !important;
+	outline-style: none !important;
+	outline-width: 0px !important;
+}
+
+/* Growth Chart */
+
+.editGrowthChartEntryContainer {
+    padding: 15px 0 15px 0;
+}
+
+.editGrowthChartEntryContainer .growthChartImage {
+    padding: 0 0 15px 0;
+}
+
+.editGrowthChartEntryContainer span {
+    line-height: 16px;
+}
+
+.editGrowthChartEntryContainer .date {
+    font-weight: bold;
+}
+
+/*RSVP*/
+#divRSVPPage .field {
+	/*float:left;*/
+	margin:0 15px 15px 0;
+}
+
+#divRSVPPage .field .warning {
+	margin: 10px 0 0 5px;
+}
+
+#divRSVPPage .field input {
+	width:140px;
+	vertical-align:middle;
+}
+#divRSVPPage .btnSubmit {
+	clear:both;
+	margin:10px auto;
+}
+#formNoMatch p.intro {
+	margin-top:1em;
+}
+.formRSVPInfo {
+	border:1px solid #ccc;
+	background:#fff;
+	font-size:11px;
+	color:#666 !important;
+}
+.formRSVPInfo th, .formRSVPInfo .th td {
+	font:bold 11px Arial, sans-serif;
+	background:#ddd;
+	vertical-align:bottom;
+	padding:2px 0;
+	text-align:center;
+	color:#000;
+}
+.formRSVPInfo th.formName, .formRSVPInfo th.formEmail, .formRSVPInfo td.formName, .formRSVPInfo td.formEmail {
+	width:155px;
+	text-overflow: ellipsis;
+	overflow:hidden;
+}
+
+.formRSVPInfo td {
+	text-align:center;
+	padding-top:5px;
+	vertical-align:top;
+}
+.formRSVPInfo td.formName_Email {
+	padding-left:5px;
+}
+.formRSVPInfo .entree select {
+	width:130px;
+	margin-right: 5px;
+}
+/*.formRSVPInfo .field{margin-right:5px;}*/
+.formRSVPInfo input, .formRSVPInfo select {
+	margin:0;
+	border:1px solid #ccc;
+	font-size:11px;
+	display:block;
+	padding:0;
+	margin:0 auto;
+}
+.formRSVPInfo .formName_Email input { width:102px; }
+.form_RSVPInfo .formName_Email input { /*width:97px;*/ }
+/*.formRSVPInfo input {	width:150px;}*/
+.formRSVPInfo .radio {
+}
+.formRSVPInfo .radio input {
+	display:inline !important;
+	margin:0 1px 2px 1px;
+	width:auto !important;
+	border:none;
+}
+.formRSVPInfo .radio label {
+	display:none;
+}
+.formRSVPInfo .lastRow td {
+	padding-bottom:5px;
+}/*Add a padding just to the bottom row of the table*/
+
+.formRSVPInfo .warning{font-size:9px;}
+/* Our Registry */
+#RegistryList {
+	width: 365px;
+	padding-left: 50px;
+	margin: 20px 0;
+}
+
+.charityinfo {  
+    background-color: inherit;
+    color:black;
+}
+
+.charityinfocopy {
+    padding-top: 12px;
+    padding-bottom: 6px;
+    margin-right: 4px;
+}
+
+#RegistryList ul {
+	list-style-image: none;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	text-align: center;
+}
+#RegistryList ul li {
+	padding: 16px 0 14px 0;
+}
+#formNoMatch {
+	margin-top: 15px;
+	padding: 0;
+	border-width:0 !important;
+}
+/*Guest Book*/
+.guest_book_form label, .guest_book_form input, .guest_book_form textarea {
+	display:block;
+}
+.guest_book_form input, .guest_book_form textarea {
+	border:1px solid #666;
+	margin-bottom:10px;
+}
+.guest_book_entries {
+	margin-top:15px;
+}
+.guest_book_entries .divGuestbookMsg {
+	padding-top:15px;
+}
+.guest_book_entries .divFromLabelAndDate {
+	text-align:right;
+	margin:15px 0;
+}
+.guest_book_entries .divFromLabelAndDate .divFromDate {
+	color:#999;
+	font:normal 11px Arial, sans-serif;
+}
+.guest_book_entries .divFromLabelAndDate .remove a {
+	color:#999;
+	font:normal 11px Arial, sans-serif;
+	background:transparent url(http://www.xoedge.com/uw/templates/bg_remove_image_transparent.png) no-repeat left 4px;
+	padding-left:10px;
+}
+.guest_book_entries .divFromLabelAndDate .remove a:hover {
+	text-decoration:none !important;
+}
+.guest_book_entries .divFromLabelAndDate .divFromDate {
+	font-style:oblique;
+}
+
+/* START: wedding party */
+
+
+.attendantsView ul {
+    list-style-position: outside;
+    list-style-image: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.attendantsView ul li {
+    list-style-position: outside;
+    list-style-image: none;
+    background-image: url(http://www.xoedge.com/uw/templates/bullet.gif);
+    background-repeat: no-repeat;
+    background-position: 0 5px;
+    padding-left: 15px;
+    width: 100%;
+}
+
+.attendantsView .attendantsInfo {
+    float:left;
+    margin-right:10px;
+    width:300px;
+}
+
+.attendantsInfoItem {
+    
+}
+
+.attendantsView .attendantsPic {
+    float:left;
+    margin-right:10px;
+    width: 110px;
+}    
+
+/* END: wedding party */
+
+
+
+/* Footer */
+
+#bottomFooter {
+	/*background-color: #bdbdbd;*/
+	height: 1%;
+	/*font-size: 10px;*/
+	/*font-family: Arial, Helvetica, sans-serif;*/
+}
+
+#bottomheaderimg {
+    height: 1%;  
+    font-size:0px;  
+}
+
+.credits {
+   height: 35px;
+   background-color: #AEADAD; 
+}
+
+.credits .presentedby {
+	width: 178px;
+	height: 34px;  
+	background-repeat: no-repeat;
+	background-position: 0px;
+	margin: 0px;
+	padding: 0px;
+	background-attachment: scroll;	  
+}
+
+.credits .presentedby img {
+	width: 178px;
+	height: 34px;  
+    border:0;
+}
+
+
+.credits .poweredby {
+    width: 178px;
+	height: 34px;
+	background-repeat: no-repeat;
+	background-position: 0px;
+	margin: 0px;
+	padding: 0px;
+	background-attachment: scroll;	
+}
+
+.credits .poweredby img {
+    width: 178px;
+    height: 34px;
+    border:0;
+}
+
+#footertxt {
+	margin: 12px 0px 0px 0px;
+	padding-left: 14px;	
+	padding-right: 20px;
+	width: 325px;
+	text-align: right;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+
+#footer img {
+	display:inline;
+}
+
+/* Login */
+body {
+	margin:0;
+	padding:0;
+	-webkit-text-size-adjust: none;
+}
+.pwpLoginContainer {
+	width:100%;
+	height:100%;
+	background-color:#d8d6d6;
+	font:normal 16px Arial, sans-serif;
+	color:#999;
+	text-align:center;
+}
+.pwpLoginContainer .inner {
+	width:750px;
+	background-color:#fff;
+	margin:0 auto;
+	text-align:left;
+	height:100%;
+}
+.pwpLoginContainer .inner p {
+	margin:0;
+	padding:145px 133px 30px 133px;
+}
+.pwpLoginContainer .inner .error {
+	color:#f58023;
+	margin:15px 225px 10px 225px;
+	font-size:14px;
+}
+.pwpLoginContainer .inner .form {
+	background:#ebf4fb;
+	margin:0 133px;
+	padding:20px;
+	color:#666;
+}
+.pwpLoginContainer .inner .form p {
+	padding:0 0 15px 0;
+	font-size:20px;
+}
+.pwpLoginContainer .inner .form input.text {
+	display:block;
+	float:left;
+	border:none;
+	width:288px;
+	height:22px;
+	background:transparent url(http://www.xoedge.com/uw/templates/bg_textarea_login.gif) no-repeat top left;
+}
+.pwpLoginContainer .inner .form input.button {
+	display:block;
+	float:left;
+	margin-left:10px;
+}
+.pwpLoginContainer .inner #bottomFooter {
+	position:absolute;
+	bottom:0;
+}
+
+/* Global Edit This Page Button */
+
+.editThisPage {
+    width: 190px;
+    height: 35px;
+    margin: 10px auto 20px auto;  
+    font-size: 14px;  
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+}
+
+.editThisPage a {
+    background-image: url(http://www.xoedge.com/uw/templates/transp_editpgbtn_off.png);
+    width: 190px;
+    height: 35px;
+    color: #ffffff;
+    display: block;
+    margin: 10px auto 20px auto; 
+    line-height: 35px; 
+    text-decoration: none; 
+    cursor: pointer;
+}
+
+.editThisPage a:hover {
+    background-image: url(http://www.xoedge.com/uw/templates/transp_editpgbtn_on.png);
+    width: 190px;
+    height: 35px;
+    color: #999999;
+    display: block;
+    margin: 10px auto 20px auto; 
+    line-height: 35px;
+    text-decoration: none;
+}
+
+.quickStatsViewer {
+	text-align: center;
+}

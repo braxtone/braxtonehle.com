@@ -1,0 +1,165 @@
+﻿/* Do not use this file for duplication, contains elements specific to ported PWP layouts*/
+ /* This is the main stylesheet for this template. It is referenced by individual color themes. */
+@import url("main.css"); /* Main styles */
+
+body {
+	margin: 0;
+	padding: 0;
+}
+#container {
+	width: 770px;
+	margin-left: 7px;
+   	margin-right: 7px;	
+}
+/* powered by WC */
+
+#poweredbytop {
+    display: none;
+}
+
+.richText a:active, .richText a:hover {
+	text-decoration:none !important;
+}
+/* bookmark share*/
+#bookmark_share, .addthis, .addthis:hover {
+    color: #fff;
+}
+#bookmark_share {
+	float: right;
+    margin-right: 5px;
+    margin-top: 10px;
+    padding: 1px 2px;
+    width: 120px;
+}
+#content {
+	width: 770px;
+}
+#navLeft {
+	float: left;
+	margin: 52px 50px 0 0;
+	font: bold 12px Palatino Linotype, Palatino, serif;
+    text-align: left;
+    width: 173px;
+}
+#navLeft h2 {
+	font-family:bold 12px Palatino Linotype, Palatino, serif;
+	margin: 0;
+	padding: 9px 0 0 0;
+}
+#navLeft h2 a:link, #navLeft h2 a:visited 
+{
+	font: bold 12px Palatino Linotype, Palatino, serif;
+	text-decoration: none;
+}
+a.onstate:link, a.onstate:visited  
+{
+	font: bold 12px Palatino Linotype, Palatino, serif;
+	text-decoration: none;
+}
+#navLeft a:link, #navLeft a:visited 
+{
+	font-family: bold 12px Palatino Linotype, Palatino, serif;
+	text-decoration: none;
+}
+#navLeft a:hover, #navLeft a:active 
+{
+	font-family: bold 12px Palatino Linotype, Palatino, serif;
+	text-decoration: none;
+}
+.contentText a:hover, .contentText a:active {
+	text-decoration:underline;
+}
+#navLeft ul {
+	margin: 0;
+	list-style-type: none;
+	list-style-image: none;
+	padding-left: 30px;
+}
+#navLeft ul li {
+	padding: 9px 0 10px 0;
+}
+#rightContent {
+	width: 520px;
+	margin-top: -13px;
+}
+div#header {
+	margin: 0;
+}
+#header h1 
+{
+	font: normal 22px Palatino Linotype, Palatino, serif;
+	margin: 0;
+}
+h3 
+{
+	margin: -3px 0 0 0;
+	font: normal 18px Palatino Linotype, Palatino, serif;
+}
+
+#text_date 
+{
+	font: bold 12px Palatino Linotype, Palatino, serif;
+}
+#text_date .divider {
+	margin: 0 7px 0 7px;
+	width: 4px;
+	height: 4px; 
+	padding: 1px;
+	vertical-align: middle;
+}
+.date, .countdown {
+	margin-top: 3px;
+}
+
+#main_content {
+	margin-top: 30px;
+}
+.contentText 
+{
+	font: normal 12px Arial, sans-serif;
+	padding: 10px 20px 20px 0;
+}
+.contentImg {
+	padding-bottom: 13px;
+	width: 370px;
+}
+
+#main_content h3 {
+	font: normal 18px Palatino Linotype, Palatino, serif;
+	margin: 0 0 15px 0;
+	padding: 0;
+}
+
+.viewmap {
+    width: 66px;
+    height: 21px;
+    font: bold 12px/21px Arial, sans-serif;
+    text-align: center;
+    display: block;
+    margin-bottom: 12px;
+}
+
+/* Registries & RSVP */
+
+#RegistryList ul {
+	list-style-image: none;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	text-align: center;
+}
+
+#RegistryList ul li {
+	padding: 16px 0 14px 0;
+}
+
+#formNoMatch {
+	margin-top: 15px;
+	padding: 0;
+}
+/* mobile */
+@media screen and (min-width: 771px)
+{
+    .mb-wrap #inner_container{ max-width:100%;background-size: 100% 155px;}
+}

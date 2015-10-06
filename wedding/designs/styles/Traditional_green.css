@@ -1,0 +1,119 @@
+@import url("traditional.css"); /* Generic destination styles */
+/* Do not use this file for duplication, contains elements specific to ported PWP layouts*/
+
+body, html { 
+	background-color: #829f6a;
+	/* for templates with pattern backgrounds use background url to point to pattern img */
+	/*background: url(http://www.xoedge.com/uw/redroses/redroses_someKool_bg.gif) repeat scroll center top; */
+}
+
+#container {
+	background-color: #ebf8ce; /*** if diff  background color needed in content area change color here ****/
+}
+
+#inner_container {
+	background: url(http://www.xoedge.com/uw/templates/traditional/traditional_Green_headerImg.gif) no-repeat left top; 
+	height: 154px;
+}
+
+#content {
+background:transparent url(http://www.xoedge.com/uw/templates/traditional/traditional_bgBot.gif) no-repeat scroll center bottom
+}
+/* powered by WC */
+
+#poweredbytop {
+    display: none;
+}
+
+/* book mark share*/
+#bookmark_share, .addthis, .addthis:hover {
+	color: #000;
+}
+
+#navLeft .bookendtop {
+	display: none;
+}
+
+#navLeft .bookendbottom {
+	display: none;	
+}
+
+#navLeft h2 {
+	border-top: 1px solid #ffffff;
+}
+
+#navLeft h2 a:link, #navLeft h2 a:visited {
+	color: #6a8f33;
+}
+
+#navLeft a.onstate:link, #navLeft a.onstate:visited {
+	color: #6a8f33 !important;
+}
+
+#navLeft h2 a:hover, .richText a:hover {
+	color: #6a8f33;
+}
+
+#navLeft a, #navLeft a:visited {
+	color: #000;
+}
+
+#navLeft ul li {
+	border-bottom: 1px solid #ffffff;
+}
+
+#header h1 {
+	color: #080707;
+}
+
+#text_date {
+	color: #080707;
+}
+
+/*
+.contentText { change color if text should be other than black 
+	color: #000 !important;
+}*/
+
+
+#text_date .divider {
+   background: transparent url(http://www.xoedge.com/uw/templates/traditional/traditional_Green_divider.gif) no-repeat center 0;
+}
+
+.richText a:link, .richText a:visited {
+	color: #000;
+}
+
+.contentText a:link, .contentText a:visited {
+	color: #000;
+}
+
+#main_content h3 {
+	color: #080707;
+}
+
+.viewmap {  
+    background-color: #080707;
+}
+
+a.viewmap {  
+    color: #fff !important;
+    text-decoration: none;
+}
+
+/* Registries & RSVP */
+
+#RegistryList ul {
+	border-bottom: 1px solid #e0e9b0;
+}
+#RegistryList ul a {
+	color: #000;
+}
+#RegistryList ul li {
+	border-top: 1px solid #e0e9b0;
+}
+#formNoMatch {
+	border-top: 1px solid #e0e9b0;
+}
+.borderGeneric{border-top: 1px solid #e0e9b0;}
+.separator{background-image:url(http://www.xoedge.com/uw/templates/bg_dotted_rule_gray.gif);}

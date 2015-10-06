@@ -1,0 +1,86 @@
+
+.left {
+	float: left;
+}
+/* Survey popups */
+
+#SurveyPopupHeader{background:#95c4e5;}
+#SurveyPopupHeader img{border:0;}
+
+#SurveyPopupContainer #content{font:bold 12px Arial,sans-serif;color:#84ad42;margin:12px;}
+
+/*Local Drop Down Popup*/
+#popupLocalDropDown{margin:0;}
+
+/* modal pop up */
+.modalPopup {
+	position: absolute;
+	top: 150px;
+	z-index: 100000;
+}
+.shadow img{display:block;}/*Gets rid of extra spacing in Strict doctypes*/
+.topShadow {
+	background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_top.png) repeat-x scroll center top;
+}
+.topLeft,
+.topRight,
+.botLeft,
+.botRight{height:20px;width:20px;}
+.topLeft{background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_corner_top_left.png) repeat-x scroll center top;}
+.topRight{background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_corner_top_right.png) repeat-x scroll center top;}
+.botLeft{background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_corner_bottom_left.png) repeat-x scroll center top;}
+.botRight{background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_corner_bottom_right.png) repeat-x scroll center top;}
+.botShadow {
+	background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_bottom.png) repeat-x scroll center bottom;
+}
+.shadowContainer, .topShadow, .botShadow {
+	width: auto;
+}
+.leftShadow {
+	background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_left.png) repeat-y scroll left top;
+}
+.rightShadow {
+	background: transparent url(http://www.xoedge.com/2008/newmodal/modal_shadow_right.png) repeat-y scroll right bottom;
+}
+.modalClose {
+	background-color: #e2e2e2;
+	height: 15px;
+	width: auto;
+	text-align:right;
+}
+.modalClose img {
+	float: right;
+	border:0;
+}
+.modalContainer {
+	padding: 10px;
+	background-color: #fff;	
+}
+.video_album .modalContainer{min-height:471px;}
+.modalHeader {
+	text-align: center;
+	padding-bottom: 10px;	
+}
+.modalHeader h2 {
+	font-size: 20px;
+    margin: 10px 0 5px 0;
+}
+
+.modalHeader p {
+	font-family: arial;
+	font-size: 14px;
+	margin: 0;
+	padding: 2px 0 5px 0;
+}
+.modalContent {
+	padding: 0 10px;
+}
+
+/*Modal Popups*/
+.modalPopup {left:50%;margin-left:-200px;width:420px;}
+.savedModal{left:45%;margin-left:-185px;margin-top:-220px;top:auto !important;}
+.savedModal .modalContent p {text-align: center;}
+.cancelModal{left:47%;margin-left:-200px;margin-top:-272px;top:auto !important;}
+
+#protectModal p{width:500px;}
+#protectModal .modalPopup{margin-left:-290px !important;}

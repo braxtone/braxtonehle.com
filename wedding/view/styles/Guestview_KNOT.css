@@ -1,0 +1,29 @@
+﻿
+#clientfooterlogo 
+{
+	background-image: url(http://www.xoedge.com/uw/templates/clientfooters/theknot/imgWeddingMadeTheKnot.gif);
+	float: right;
+	width: 220px;
+	height: 30px;
+}
+
+.credits 
+{
+	background-color: #AEADAD;
+}
+
+#footertxt
+{
+	text-align:left;
+	float:left;
+}
+
+.mapCanvas {width: 530px !important;} /*Fix due to varying left nav widths of templates causing map overhang*/
+.create-your-site{ margin:20px auto; text-align:center;clear:both; }
+.create-your-site input{ font:14px/33px OsloBlackRegular,Arial; cursor:pointer; color:#3a3a3a; width:214px; height:33px; border:none; background:none; border-radius:4px;background-color: #dadada;}
+/*
+#imgWrap{ position:relative; }
+#imgWrap .scotch-tape{width:10px; height:10px; background:red; position:absolute;display:none;}
+#imgWrap .scotch-tape-tl{ top:0; left:0; }
+#imgWrap .scotch-tape-br{ bottom:0; right:0; }
+*/

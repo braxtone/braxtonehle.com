@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head><meta http-equiv="cleartype" content="on" /><meta name="HandheldFriendly" content="True" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.xoedge.com/uw/homeIcons/uw_mobile_144x144.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.xoedge.com/uw/homeIcons/uw_mobile_114x114.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.xoedge.com/uw/homeIcons/uw_mobile_72x72.png" /><link rel="apple-touch-icon-precomposed" href="http://www.xoedge.com/uw/homeIcons/uw_mobile_57x57.png" /><link rel="apple-touch-startup-image" href="http://www.xoedge.com/uw/homeIcons/uw_mobile_loadscreen_320x460.png" />
+    
+<link rel="stylesheet" type="text/css" href="http://uw.theknot.com/javascript/jQuery/jquery-ui-1.7.2.custom.css" /><link rel="stylesheet" type="text/css" href="http://uw.theknot.com/styles/UWGlobal.css" />
+      <script src="http://uw.theknot.com/javascript/jQuery/jquery-1.3.2.min.js"></script>
+      <script type="text/javascript" language="javascript" src="http://www.xoedge.com/jscripts/jquery/ui/jquery-ui-1.8.7.min.js"></script>
+      <script src="http://uw.theknot.com/javascript/jquery.theknot.js"></script>
+         
+    <script type="text/javascript" language="javascript" src="http://www.theknot.com/wedding/view/javascript/jquery.theknot.uw.view.common.js"></script>
+    <script type="text/javascript" language="javascript" src="http://www.theknot.com/wedding/view/javascript/jquery.theknot.uw.view.guestbookposter.js"></script>
+    <script src="http://www.theknot.com/wedding/javascript/bgsleight.js" type="text/javascript" language="javascript"></script>
+    <link href="http://www.xoedge.com/fonts/Oslo/oslo_black/stylesheet.css" type="text/css" rel="Stylesheet" />
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+	<link rel="stylesheet" type="text/css" href="http://s7.addthis.com/css/addthis_widget.css" />
+	<link rel="stylesheet" type="text/css" href="../../designs/styles/Traditional_green.css" />
+	<link rel="stylesheet" type="text/css" href="../styles/Guestview_KNOT.css" />
+
+	<script data-shared="get:app/api" language="javascript" type="text/javascript" src="http://registry.theknot.com/api/CdnApiProxy/Redirect?path=app/init.js"></script>
+	<script language="javascript" type="text/javascript" src="../webservices/CommonGuestviewJSElements.ashx?cmd=1&amp;sid=1879880&amp;uid=8476593777902968"></script>
+	<script language="javascript" type="text/javascript" src="http://s7.addthis.com/custom/theknot/js/addthis_widget.php?v=12#username=TheKnot"></script>
+
+
+    
+        <style>
+        /* maps on pc */
+        .mapCanvas
+        {
+            width: 530px !important;
+            height: 450px;
+        }
+        .off
+        {
+            display: none;
+        }
+    </style>
+<meta name="description" content="Danielle & Braxton Wedding Website – View all of the wedding details for the wedding of Danielle and Braxton." />
+<link rel="image_src" href="http://www.xoedge.com/uw/templates/thumbs/small/Traditional_green.jpg" />
+<meta property="og:description" content="Danielle Ehle and Braxton Ehle are getting married on 23-June-2012. Check out their wedding website - http://BraxtonAndDanielle.ourwedding.com. Wedding Website powered by The Knot." />
+<meta property="og:title" content="Danielle & Braxton's Wedding Website" />
+<meta property="og:image" content="//www.xoedge.com/uw/templates/thumbs/small/Traditional_green.jpg" />
+<meta content='website' property='og:type'/>
+<meta content='http://BraxtonAndDanielle.ourwedding.com' property='og:url'/>
+<meta name="cm_pageid" content="About Us" />
+<meta name="cm_catid" content="The Knot Guest View: Web Page" />
+<title>
+	Danielle and Braxton from SEATTLE, Washington
+</title></head>
+  <body>
+      <form name="aspnetForm" method="post" action="26776253" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDM4NzQxNTUPZBYCZg9kFgJmD2QWAmYPZBYCAgEPFgIeBmFjdGlvbgUfL3ZpZXcvODQ3NjU5Mzc3NzkwMjk2OC8yNjc3NjI1MxYCAgMPZBYGAgEPZBYIAgUPZBYCAgEPZBYCAgEPFgIeC18hSXRlbUNvdW50AggWEGYPZBYEZg8VAQExZAIBDw8WBB4LTmF2aWdhdGVVcmwFHy92aWV3Lzg0NzY1OTM3Nzc5MDI5NjgvMjY3NzYyNTIeBFRleHQFEkJyYXh0b24gJiBEYW5pZWxsZWRkAgEPZBYEZg8VAQEyZAIBDw8WCB8CBR8vdmlldy84NDc2NTkzNzc3OTAyOTY4LzI2Nzc2MjUzHwMFCEFib3V0IFVzHghDc3NDbGFzcwUHb25zdGF0ZR4EXyFTQgICZGQCAg9kFgRmDxUBATNkAgEPDxYEHwIFHy92aWV3Lzg0NzY1OTM3Nzc5MDI5NjgvMjY3NzYyNTQfAwUMT3VyIFByb3Bvc2FsZGQCAw9kFgRmDxUBATRkAgEPDxYEHwIFHy92aWV3Lzg0NzY1OTM3Nzc5MDI5NjgvMjY3NzYyNTUfAwUUQ2VyZW1vbnkgJiBSZWNlcHRpb25kZAIED2QWBGYPFQEBNmQCAQ8PFgQfAgUfL3ZpZXcvODQ3NjU5Mzc3NzkwMjk2OC8yNjc3NjI1Nx8DBQ1XZWRkaW5nIFBhcnR5ZGQCBQ9kFgRmDxUBATdkAgEPDxYEHwIFHy92aWV3Lzg0NzY1OTM3Nzc5MDI5NjgvMjY3NzYyNTgfAwUOT3VyIFJlZ2lzdHJpZXNkZAIGD2QWBGYPFQEBOGQCAQ8PFgQfAgUfL3ZpZXcvODQ3NjU5Mzc3NzkwMjk2OC8yNjc3NjI1OR8DBRFHdWVzdCBJbmZvcm1hdGlvbmRkAgcPZBYEZg8VAQIxM2QCAQ8PFgQfAgUfL3ZpZXcvODQ3NjU5Mzc3NzkwMjk2OC8yNjc3NjI2NB8DBQRSU1ZQZGQCCQ9kFgICAQ8PFgIfAwV+PHNwYW4gY2xhc3M9J21lbWJlci1maXJzdC1uYW1lJz5EYW5pZWxsZTwvc3Bhbj4gPHNwYW4gY2xhc3M9J2FtcC1jc3MnPiY8L3NwYW4+IDxzcGFuIGNsYXNzPSdwYXJ0bmVyLWZpcnN0LW5hbWUnPkJyYXh0b248L3NwYW4+ZGQCCw9kFgQCAQ9kFgICAQ8PFgIfAwUNSnVuZSAyMywgMjAxMmRkAgMPZBYCAgEPDxYCHwMFGE5ld2x5d2VkcyBmb3IgMTAwNCBkYXlzIWRkAg0PZBYCAgEPZBYCAgMPDxYEHghJbWFnZVVybAWfAWh0dHA6Ly91bml2ZXJzYWx3ZWJzaXRlcy50aGVrbm90LmNvbS5zMy5hbWF6b25hd3MuY29tL1VuaXZlcnNhbFdlYnNpdGVzL1BhZ2VNYWluSW1hZ2UvODQ3NjU5Mzc3NzkwMjk2OC8xODc5ODgwLzI2Nzc2MjUzL21lZC9EYW5pZWxsZUJyYXh0b25fZW5nYWdlbWVudF8wMDIzLmpwZx4HVmlzaWJsZWdkZAIFDxYCHwdoZAIHDxYCHwdoZGQOSiu9zqyHL+Guf9tq/jnEaOYXLQ==" />
+
+<script type="text/javascript">
+var RRUWRegInfo={ _api:'getRegistries',affiliateWebsiteCode: '1879880',affiliateId: { 'wc': 950, 'tk': 994, 'tb': 2230 } ['tk']}
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F0F87691" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJxJTzhhS2zn3qPz7xkJ8/IkwNzITNhkh6Htk/f7NwJ488hPkkyPyOdfVZFq43wj9ysvylR" />
+      
+    
+
+      
+    <div id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_pnlPageContainer" class="pageContainer">
+	
+        <div id="container">
+            <div id="inner_container">
+                <div id="poweredbytop">
+                    
+                </div>
+                
+    <!-- mobile view -->
+    <script type="text/javascript" language="javascript" src='http://www.xoedge.com/jscripts/shared/xo/xo-0.6.1.min.js'></script>
+    <script type="text/javascript" language="javascript">        XO.utilities.isMobile && document.write('<link rel="stylesheet" type="text/css" href="http://www.xoedge.com/css/tk/uw/mobileview-min-1.7.1.css"/>')</script>​
+    
+    <div id="bookmark_share">
+        <a class="addthis" onclick="return addthis_to()" onmouseout="addthis_close()" onmouseover="return addthis_open(this, '', '', 'The Knot')"
+            href="http://www.addthis.com/bookmark.php?title=Check out my Wedding website:&url=http://BraxtonAndDanielle.ourwedding.com">
+            bookmark&nbsp;+&nbsp;share</a></div>
+
+                <div class="clear">
+                </div>
+            </div>
+            <div id="content">
+                <div id="navLeft">
+                    <div class="bookendtop">
+                    </div>
+                    
+    
+<ul>
+    
+            <li id='1'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl00_hlnkNavLinks_WebPages" href="26776252">Braxton & Danielle</a>
+            </li>
+        
+            <li id='2'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl01_hlnkNavLinks_WebPages" class="onstate" href="26776253">About Us</a>
+            </li>
+        
+            <li id='3'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl02_hlnkNavLinks_WebPages" href="26776254">Our Proposal</a>
+            </li>
+        
+            <li id='4'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl03_hlnkNavLinks_WebPages" href="26776255">Ceremony & Reception</a>
+            </li>
+        
+            <li id='6'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl04_hlnkNavLinks_WebPages" href="26776257">Wedding Party</a>
+            </li>
+        
+            <li id='7'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl05_hlnkNavLinks_WebPages" href="26776258">Our Registries</a>
+            </li>
+        
+            <li id='8'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl06_hlnkNavLinks_WebPages" href="26776259">Guest Information</a>
+            </li>
+        
+            <li id='13'>
+                <a id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_LeftNavLinks_ucNavLinks_rptrNavLinks_WebPages_ctl07_hlnkNavLinks_WebPages" href="26776264">RSVP</a>
+            </li>
+        
+</ul>
+
+<script type="text/javascript">
+    var registryRetailer = function () {
+        if ((typeof RRUWRegInfo) == 'undefined') return;
+        RR.wait('api', RRUWRegInfo, function (data) {
+            if (RRUWRegInfo.affiliateId == 950 || RRUWRegInfo.affiliateId == 994) {
+                var retailerHtml = [];
+                for (var key in data) {
+                    if (data.length > 0 )
+                      retailerHtml.push('<li><a href="http://braxtonanddanielle.ourwedding.com/view/8476593777902968/'&#32;+&#32;data[key].RegistryGVR&#32;+&#32;'" target="_blank">' + data[key].Retailer + '</a></li>');
+                }
+                if (retailerHtml.join("") == "") return;
+                var registries2Html = ['<div id="RegistryList2"><ul>', retailerHtml.join(""), '</ul></div>'].join("");
+                $("#navLeft ul").find("li#7").eq(0).append(registries2Html);
+            }
+        });
+    };
+    $("#navLeft ul").find("li#7").length && registryRetailer();
+</script>
+
+
+                    
+    
+
+                    <div class="bookendbottom">
+                    </div>
+                </div>
+                <div id="rightContent" class="left">
+                    <div id="header">
+                        <div id="ourwedddingtilte" style="display: none">
+                            Our Wedding</div>
+                        <h1 id="header">
+                            
+    <span id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_MemberNameHeader_lblMemberNameHeader"><span class='member-first-name'>Danielle</span> <span class='amp-css'>&</span> <span class='partner-first-name'>Braxton</span></span>
+
+                        </h1>
+                        <div id="text_date">
+                            <div id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_pnlDateAndCountdownContainer">
+		
+                                <span class="date">
+                                    
+    <span id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_EventDate_lblEventDateHeader">June 23, 2012</span>
+
+                                </span>
+                                <img src="http://www.xoedge.com/uw/spacer.gif" class="divider" alt="" />
+                                <span class="divider-partner" style="display:none">&#8226;</span>
+                                <span class="countdown">
+                                    
+    <span id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_EventCountdown_lblEventCountdownHeader">Newlyweds for 1004 days!</span>
+
+                                </span>
+                            
+	</div>
+                        </div>
+                        <div class="clear">
+                        </div>
+                    </div>
+                    <div id="main_content">
+                        
+    
+    <!-- START CAPSULE WIDGET -->
+    
+    <!-- END CAPSULE WIDGET -->
+    <div class="contentImg">
+        <div id="imgWrap">
+            <div class="scotch-tape scotch-tape-tl"></div>
+            <div class="scotch-tape scotch-tape-br"></div>
+            <img id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_PageMainImage_PageMainImage_imgPageMainImage" src="http://universalwebsites.theknot.com.s3.amazonaws.com/UniversalWebsites/PageMainImage/8476593777902968/1879880/26776253/med/DanielleBraxton_engagement_0023.jpg" border="0" />
+        </div>
+    </div>
+
+
+                        <div class="contentText">
+                            <div class="contentTextOutput richText">
+                                
+    
+    <div id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_PageContent_PageContent_pnlOutput">
+		<h3 class="sectionTitle">About Danielle</h3><p>What first struck me about Danielle was her ability to go incredibly analytical and then the next moment exude such incredible, pure joy. The night we met we spend an hour talking about the implications of fashion and society, the next was spent at a picnic with the Capri Suns and Fruit Gushers of our childhood. Having spent a fair bit of time guessing who'd I'd eventually marry, I figured I'd have to choose between the two personalities. Little did I know I'd find a gal who so perfectly joins the two.&nbsp;<br></p><p></p><p>The day after we had our first date I tried to send her a message just to keep the conversation going. The night passed without a response and so did the following morning. It wasn't until that afternoon that I heard back from her. As it turns out she had been camping and wasn't able to get a signal. This was awesome for two reasons: she messaged me back and she was adventurous in that she was into the type of camping that takes you out of cellphone range (ie real camping).<br><br>To see how she artfully lives out her Christian worldview in an imperfect world is a testament to her maturity and compassion. To see the honesty and openness with which she approaches her faith in light of foundation shaking trials reveals her character. To see her is to be filled with the same love and respect and excitement that she offers to those around her. To see her every night when I go to sleep and see her every morning when I wake up is an absolute gift.<br></p><br>Neither my vocabulary nor your attention span could contain everything that amazes me about this woman. I'm continually humbled and sobered by the honor of having her at my side. I'm eagerly looking forward to the incomprehensible number of years and experiences ahead of us as we build a life together.&nbsp;<p></p><p></p><div class="spacer"></div><h3 class="sectionTitle">About Braxton</h3><p class="MsoNormal">I was first attracted to just how different a West Coast Boy
+was in the land of government consultants that is <st1:place w:st="on"><st1:city w:st="on">Washington</st1:city> <st1:state w:st="on">DC</st1:state></st1:place>.&nbsp; His ability to completely own his awkwardness
+went a long way in making me comfortable in my own awkwardness.&nbsp; This was a huge point in his favor as was his
+love of the outdoors and willingness to try anything once.&nbsp; Always the picky eater, Braxton very quickly had
+me trying many things outside my comfort range, a feat many had tried with few
+successes.&nbsp; The things one does to
+impress another…&nbsp; While many thought that
+our differing tastes in music and movies would be sticking points, I found
+myself falling more in love with those differences and the way they allowed us
+to interact and bring new ideas and experiences to the table.&nbsp; Even though we are both self-described
+introverts and most definitely not social people Braxton’s ability to take on
+the role of “the social one” in our relationship is something I don’t think I
+can ever thank him for enough.&nbsp; Upon
+discovering that we could talk about religion without me feeling belittled or
+wanting to punch him in the face I was convinced that this was the man God had
+for me.&nbsp; Whether it be cooking together (always
+with Braxton wielding the sharp pointy objects), discussing religious or social
+issues, watching movies that make us think, listening to music, or just plain
+being goofy there is no one I would rather have by my side for the rest of my
+life.&nbsp; I love you.&nbsp; &nbsp; &nbsp;</p><div class="spacer"></div><h3 class="sectionTitle">How we met</h3><p class="MsoNormal">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;According to Braxton, the first time we met was at lunch
+with some friends.&nbsp; He vividly remembers
+a redhead with mismatched laces on her Chucks sitting at the other end of the
+table.&nbsp; I, on the other hand, have no
+recollection of this and claim that the first time we met was months later at
+EatBar in <st1:city w:st="on"><st1:place w:st="on">Arlington</st1:place></st1:city>.&nbsp; It is clear that God had this planned from
+the start as, in typical Braxton and Danielle fashion, neither of us had any
+desire to be social that evening, preferring instead to rebuild a computer or
+hold an epic Doctor Who marathon…&nbsp;
+Instead we found ourselves sitting across from each other surrounded by
+people from our church and left with no choice but to talk to one another.&nbsp; Eventually the course of the conversation
+took us everywhere from the social stigmas associated with the way people dress
+to where we saw ourselves 5 years down the road.&nbsp; It quickly became apparent that conversation
+came easily and perhaps this could be something.&nbsp; </p>
+
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While Braxton
+did Facebook friend me that night, no numbers were exchanged, and the next
+month passed uneventfully.&nbsp; Conversation
+was reunited when he posted a status on his current book of choice and I, never
+one to pass on a chance to discuss books, voiced my opinion.&nbsp; Through the comments on the status it was
+confirmed that we would both be at church the following Sunday and should catch
+up.</p>
+
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After the
+service ended I was shocked to see Braxton make a beeline to where I was
+standing, and soon enough the conversation was flowing.&nbsp; Lunch found us talking rapidly and at length
+about books, TV shows, and movies.&nbsp; Our
+friends across the table have since remarked at how watching us talk was like
+watching two people converse in a foreign language, where the outsiders have no
+idea what is being talked about and those engaged have little regard for what
+is going on around them.&nbsp; Lunch ended
+with Braxton promising to call soon.</p>
+
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; He made
+good on his promise and a date was scheduled for a picnic at <st1:place w:st="on"><st1:placename w:st="on">Gravelly</st1:placename> <st1:placetype w:st="on">Point</st1:placetype>
+ <st1:placetype w:st="on">Park</st1:placetype></st1:place>.&nbsp; I brought homemade chocolate chip cookies; he
+brought Gushers and Capri-Suns.&nbsp; The conversation
+flowed easily until it was dark, chilly, and time to head home.&nbsp; We promised to stay in touch.</p>
+
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That
+weekend I was camping with my family without cell-service.&nbsp; Braxton sent a text or two and anxiously
+awaited reply, losing hope that anything would come of this.&nbsp; Meanwhile, I sat unaware and spent my time trying
+to appear calm and cool thinking that nothing might come of the previous date
+and that would be fine.&nbsp; Luckily for both
+of us phones were brought back into the civilized world and the communication
+started up again.&nbsp; The following week saw
+three dates in five days and on May 15<sup>th</sup>, a mere week and a half
+after their first date, Braxton asked me if I would make this official,
+assuring me that with grace, patience and Christ at the center of the
+relationship it was worth our time.&nbsp; I
+agreed, telling him that I was “willing to give it a try”.&nbsp; And the rest, as they say, is history.</p><div class="spacer"></div>
+	</div>
+
+
+                            </div>
+                        </div>
+                        <div class="contentVideo">
+                            
+    
+ <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+       
+ <script type="text/javascript"> brightcove.createExperiences();</script>  
+
+
+                        </div>
+                    </div>
+                    <!-- end of right content-->
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            <div id="bottomArt"></div>
+            <div class="clear"></div>
+            <div id="bottomFooter">
+                <div id="bottomheaderimg">
+                </div>
+                <div class="credits">
+                    
+    <a href="http://www.theknot.com" target="_blank" onfocus="this.blur()"> 
+        <div id="clientfooterlogo" class="left">
+        </div>
+    </a>
+
+                    <div id="footertxt" class="right">
+                        
+    <a href="http://uw.thenest.com/pub/search" target="_blank" onfocus="this.blur()">
+    <img alt="Search for other websites on The Knot" border="0" src="http://www.xoedge.com/uw/templates/clientfooters/theknot/imgSearchWebPage.gif" /></a>
+    <input name="ctl00$ctl00$ctl00$cphUWGlobal_PageContent$FooterText$mintedFlag" type="hidden" id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_FooterText_mintedFlag" value="False" />
+    <script type="text/javascript" language="javascript" src="http://www.theknot.com/wedding/view/javascript/jquery.theknot.uw.view.KNOT.js"></script>
+    <script type="text/javascript" language="javascript" src='http://www.xoedge.com/jscripts/shared/mbp/helper-0.0.5.1.min.js'></script>
+    <!-- mobile view -->
+    <script type="text/javascript" language="javascript">        XO.utilities.isMobile && document.write('<script type="text/javascript" src="http://www.xoedge.com/jscripts/tk/uw/mobileView-min-1.2.2.js"><\/script>')</script>
+  
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+    <div id="ctl00_ctl00_ctl00_cphUWGlobal_PageContent_pnlContentOnly">
+
+</div>
+    
+    
+
+      <div class="loading">
+      </div>
+      </form>
+  <!-- Start HtmlInjectISAPIFilter --><script type="text/javascript">if(!_isexec){var _isexec=true;(function(){var b=document.location.host.split("."),c=(b.length>1?b[b.length-2]+".":"")+b[b.length-1];
+switch(c){case"thebump.com":case"thenest.com":case"weddingchannel.com":c="//analytics."+c;break;default:c="//analytics.theknot.com";break}
+c+="/tags/?url="+encodeURIComponent(document.location);document.write(unescape("%3Cscript src='"+escape(c)+"' type='text/javascript'%3E%3C/script%3E"))})()};</script><!-- End HtmlInjectISAPIFilter -->
+</body>
+  </html>
+
+<!-- PROD.PRDAPP04 -->
