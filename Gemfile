@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'rake'
+gem 'rspec'
+gem 'jekyll'
+gem 's3_website'
+gem 'rdiscount'

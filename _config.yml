@@ -4,6 +4,17 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
+exclude: [
+            "LICENSE",
+            "README.md",
+            "bin/",
+            "s3_website.yml",
+            "spec/",
+            "Rakefile",
+            "Gemfile*",
+            "classProj/"
+           ]
+
 name: 'Braxton Ehle'
 url: 'http://www.braxtonehle.com'
 description: 'The hub for hubub about Braxton Ehle.'
@@ -16,3 +27,4 @@ google_plus: '+BraxtonEhleC/about'
 pgp_key: '0x4C1D032E182608C7'
 resume_pdf: '/about/resume.pdf'
 resume_txt: '/about/resume.txt'
+
