@@ -2,7 +2,15 @@ Braxton Ehle
 braxton@braxtonehle.com
 
 Work Experience and Projects:
-- Elastic Compute Cloud Security Engineer for Amazon Web Services, October 2012 - Present
+- Security Engineer for Tableau Software, December 2014 - Present
+Within Tableau's Information Security team, I'm responsible for the operational aspects of our security program. I primarily work with the teams running our corporate and customer-facing systems to ensure they are adequately secured, as well as responding to security incidents.
+
+Key Accomplishments:
+* Built the vulnerability management and incident response programs
+* Redesigned and implemented the internal Public Key Infrastructure (PKI)
+* Took over and managed the SAML-based single sign-on solution
+
+- Elastic Compute Cloud Security Engineer for Amazon Web Services, October 2012 - November 2014 
 As a security engineer for one of the largest cloud providers in the world, I am responsible for improving our incident response capability, developing projects to make EC2 more secure for our customers, and acting as the EC2 point of contact for the AWS compliance team. I’ve learned to build scale into every process, automating relentlessly.
 
 Key Accomplishments:
