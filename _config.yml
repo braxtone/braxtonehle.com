@@ -16,15 +16,16 @@ exclude: [
            ]
 
 name: 'Braxton Ehle'
-url: 'http://www.braxtonehle.com'
+url: 'https://www.braxtonehle.com'
 description: 'The hub for hubub about Braxton Ehle.'
 twitter: '_braxtone'
 github: 'braxtone'
 linkedin: 'pub/braxton-ehle/36/691/1b7'
 stackexchange: 'users/1215524/bobmagoo?tab=accounts'
-gravatar_url: 'http://gravatar.com/avatar/6c6b0027907ba37a497eb5bb4729d88d'
+gravatar_url: 'https://gravatar.com/avatar/6c6b0027907ba37a497eb5bb4729d88d'
 google_plus: '+BraxtonEhleC/about'
 pgp_key: '0x4C1D032E182608C7'
+codeacademy: 'behle'
 resume_pdf: '/about/resume.pdf'
 resume_txt: '/about/resume.txt'
 
