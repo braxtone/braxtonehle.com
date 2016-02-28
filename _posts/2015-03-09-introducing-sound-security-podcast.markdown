@@ -7,7 +7,7 @@ categories: nerdery security podcast
 
 My good friend [Osman](https://surkatty.org/) and I decided to start a podcast about the wonderful
 world of information security. We think it's pretty awesome and hope you do too. Check it out at
-<http://soundsecurity.braxtonehle.com>
+<https://soundsecurity.io>
 
 To shamelessly quote ourselves:
 > Sound Security is made up of Braxton and Osman, two InfoSec nerds from the Puget Sound who love to
