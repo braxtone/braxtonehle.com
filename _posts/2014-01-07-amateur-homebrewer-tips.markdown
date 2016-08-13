@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tips for Amatuer Homebrewers"
+title:  "Tips for Amateur Homebrewers"
 date:   2014-01-07 21:50:31
 categories: homebrewing 
 ---
