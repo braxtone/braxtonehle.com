@@ -2,23 +2,27 @@ Braxton Ehle
 braxton@braxtonehle.com
 
 Work Experience and Projects:
-- Security Engineer for Tableau Software, December 2014 - Present
+- Product Security Engineer for Tableau Software, August 2017 - Present
+After working in Tableau's InfoSec team for 2.5 years, I've moved to the Product Security Team to focus on security for Tableau Online, Public, and other customer-facing, production systems.
+
+- Security Engineer for Tableau Software, December 2014 - August 2017
 Within Tableau's Information Security team, I'm responsible for the operational aspects of our security program. I primarily work with the teams running our corporate and customer-facing systems to ensure they are adequately secured, as well as responding to security incidents.
 
 Key Accomplishments:
 * Built the vulnerability management program and the foundations of our incident response program
-* Redesigned and implemented the internal Public Key Infrastructure (PKI)
-* Took over and managed the SAML-based single sign-on solution
+* Redesigned and implemented the corporate Public Key Infrastructure (PKI)
+* Managed the corporate SAML-based single sign-on identity platform 
 * Defined standards for secure cloud usage
 * Designed and published Tableau’s public security page and vulnerability reporting process
+* Defined the security consulting practice and risk tracking process for my team.
 
 - Elastic Compute Cloud Security Engineer for Amazon Web Services, October 2012 - November 2014 
-As a security engineer for one of the largest cloud providers in the world, I am responsible for improving our incident response capability, developing projects to make EC2 more secure for our customers, and acting as the EC2 point of contact for the AWS compliance team. I’ve learned to build scale into every process, automating relentlessly.
+As a security engineer for one of the largest cloud providers in the world, I was responsible for improving our incident response capability, developing projects to make EC2 more secure for our customers, and acting as the EC2 point of contact for the AWS compliance team. I’ve learned to build scale into every process, automating relentlessly.
 
 Key Accomplishments:
-* Lead the EC2 service through 4 SOC 1 audits and 2 PCI audits with zero audit findings
+* Represent the EC2 technical controls in 4 SOC 1 audits and 2 PCI audits with zero findings
 * Built and automated a process for the monthly review of privileged commands run by EC2 engineers
-* Learned and taught my team new log diving techniques leveraging AWS services like EMR to gain further insight into our environment and to improve our incident response times
+* Learned and taught my team new log diving techniques leveraging AWS services like Apache Pig scripts running on Elastic MapReduce to gain further insight into our environment and to improve our incident response times
 * Committed over 60,000 lines of Ruby code to automate common incident response, reporting, and abuse tasks
 * Lead calls for security events, working with other service teams to root cause and remediate security vulnerabilities and drive roadmaps to improve security controls
 
