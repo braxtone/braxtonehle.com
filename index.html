@@ -1,14 +1,25 @@
 ---
-layout: layout
-title: "Posts"
+layout: default
 ---
 
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+
+{% include career-profile.html %}
+
+{% include experiences.html %}
+
+{% include certifications.html %}
+
+{% include projects.html %}
+
+{% include oss-contributions.html %}
+
+{% include publications.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+
+{% include recommendations.html %}
+
+{% include skills.html %}
