@@ -32,7 +32,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: '/about/resume.pdf' # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: resume.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
@@ -51,7 +51,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Staff security engineer focused on designing excellent, human-centered systems through first-principles thinking and iterative execution. I work across teams to help organizations navigate complex security risks, shaping architectures, and enabling others to deliver resilient solutions.
+    I'm a staff security engineer focused on designing excellent, human-centered systems through first-principles thinking and iterative execution. I work across teams to help organizations navigate complex security risks, shaping architectures, and enabling others to deliver resilient solutions.
 
 education:
   title: Education
