@@ -20,11 +20,11 @@ title: 'Braxton Ehle'
 # online-cv settings
 
 name: 'Braxton Ehle'
-url: 'https://braxtonehle.com'
+# url: 'https://braxtonehle.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-#baseurl: '/online-cv'
+baseurl: '/'
 
 description: The hub for hubbub about Braxton Ehle
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
