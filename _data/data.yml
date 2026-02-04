@@ -32,7 +32,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: resume.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: braxton_ehle_resume.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
@@ -51,7 +51,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I'm a staff security engineer focused on designing excellent, human-centered systems through first-principles thinking and iterative execution. I work across teams to help organizations navigate complex security risks, shaping architectures, and enabling others to deliver resilient solutions.
+    I’m a staff security engineer focused on building excellent, human-centric systems to reduce risk. I work across teams to help organizations address common security risks with tools for non-experts, architect around risk, and otherwise enable developers to deliver resilient solutions.
 
 education:
   title: Education
@@ -75,12 +75,14 @@ experiences:
     time: 2020-06 - 2025-08
     company: Apple
     details: |
-      As a founding member of the Apple Services Engineering Security Team, I helped engineers understand and architect around risks to protect billions of users.
+     As a founding member of the Apple Services Engineering Security team, I helped engineers architect around risk to protect billions of users.
 
       *Key Accomplishments:*
-      - Lead the security program for Apple’s internal on-prem and multi-cloud infrastructure platform that provided secure building blocks for developers across Apple with a focus on: IAM services, multi-tenancy, credential management, leadership readouts, and industry benchmarking.
+      - Lead the security program for the internal on-prem and multi-cloud infrastructure platform that provided secure building blocks for developers across Apple, focusing on: custom IAM stack, multi-tenancy, cross-org feature priorities, executive briefings, and industry benchmarking.
       - Developed the security review program to threat model Apple services and features
-      - Built an API to track security criticality and maturity across ~1,000 services - Reviewed hundreds of internal and external services including: Apple Business Essentials, Schoolwork, Vision Pro, iCloud & Developer Console, Passkeys, APNs, XCode Cloud
+      - Built an API to track security criticality and maturity across ~1,000 services
+      - Reviewed numerous internal and external services, including: Apple Business Essentials, Schoolwork, Vision Pro, iCloud & Developer Console, Passkeys, APNs, Xcode Cloud
+
 
   - role: Senior Product Security Engineer (Principal MTS)
     time: 2017-08 - 2020-05
@@ -90,28 +92,28 @@ experiences:
 
       *Key Accomplishments:*
       - Architected and lead a cross-company production access management redesign
-      - Wrote a security “state of the union” report reviewed by C- and VP-level executives that was used as the foundation for creating the Tableau Online security program
-      - Represented security on multiple cross-company advisory groups; taught operational security principles at an lead engineers’ offsite; twice spoke at Tableau conference
+      - Wrote a security “state of the union” report for C- and VP-level executives that was used as the foundation for creating the Tableau Online security program
+      - Represented security on multiple cross-company advisory groups; taught security principles at an lead engineers’ offsite; twice spoke at Tableau conference
       - Built a static analysis tool for Terraform to identify security issues in the CI/CD pipeline
 
   - role: Information Security Engineer
     time: 2014-12 - 2017-08
     company: Tableau
     details: |
-      Within Tableau’s Information Security team I was responsible for operational security.
-      I primarily worked with the teams running our corporate systems to ensure they were adequately secured, and lead security incident response.
+      Within Tableau’s Information Security team I primarily worked with the teams running our corporate systems to ensure they were adequately secured, and lead security incident response.
 
       *Key Accomplishments:*
-      - Redesigned and implemented the corporate Public Key Infrastructure (PKI)
-      - Managed the corporate SSO platform and defined the program for secure AWS usage
-      - Built security review, incident response, and risk tracking programs
+      - Defined and ran the programs for: secure AWS usage, security reviews, incident response, and risk tracking
+      - Architected and rolled out fundamental security technologies like corporate Public Key Infrastructure (PKI), vulnerability management; managed corporate SSO platform
+
 
   - role: EC2 Security Engineer
     time: 2012-10 - 2014-11
     company: Amazon Web Services (AWS)
     details: |
-      As a security engineer for one of the largest cloud providers in the world, I was responsible for improving our incident response capability, implementing projects to make AWS' Elastic Compute Cloud (EC2) more secure for our customers, and acting as the EC2 point of contact for the AWS Compliance team.
-      I’ve learned to build scale into every process, automating relentlessly.
+      As a security engineer for one of the largest cloud providers in the world, I was responsible for improving our incident response capability, delivering projects to make AWS' Elastic Compute Cloud (EC2) more secure for our customers, and acting as the EC2 point of contact for the AWS Compliance team.
+      I’ve built scale into every process, automating relentlessly.
+
 
       *Key Accomplishments:*
       - Represented EC2's technical controls in four SOC 2 and two PCI audits with no findings
@@ -123,10 +125,8 @@ experiences:
     time: 2010-08 - 2012-09
     company: Accenture
     details: |
-      Working within Accenture’s Identity and Access Management (IAM) Security practice, I designed and implemented enterprise-wide security technologies such as endpoint protection and PKI.
-      I was part of a small group working directly with the CISO of a civilian federal department.
-      Through my time with Accenture, I’ve learned how to quickly build relationships, learn security technologies, and apply them to meet the business and compliance needs of a large organization.
-
+      Working within Accenture’s Identity and Access Management (IAM) Security practice, I designed and implemented enterprise-wide security technologies such as endpoint protection and PKI to support smart cards.
+      I was part of a small group working directly with the CISO of a large civilian federal department, advising on policy, program, and technical means of reducing risk.
 
 # certifications:
 #   title: Certifications
